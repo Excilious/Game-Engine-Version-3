@@ -1,0 +1,54 @@
+{
+    "Scene":    ["../../Meshes/Scene2.gltf"],
+    "Lights":   [
+        {
+            "Directory":"../../Meshes/Crate.gltf",
+            "Position":[4,5,4],
+            "Rotation":[0,0,0,0],
+            "Scale":[0.15,0.15,0.15],
+            "Colour":[1,0,0],
+            "Brightness": [2],
+            "Transparency":[0.6],
+            "Gloss": [1]
+        },
+        {
+            "Directory":"../../Meshes/Crate.gltf",
+            "Position":[3,5,3],
+            "Rotation":[0,0,0,0],
+            "Scale":[0.15,0.15,0.15],
+            "Colour":[0,1,0],
+            "Brightness": [2],
+            "Transparency":[0.6],
+            "Gloss": [1]
+        },
+        {
+            "Directory":"../../Meshes/Crate.gltf",
+            "Position":[5,5,3],
+            "Rotation":[0,0,0,0],
+            "Scale":[0.15,0.15,0.15],
+            "Colour":[0,0,1],
+            "Brightness": [2],
+            "Transparency":[0.6],
+            "Gloss": [1]
+        },
+        {
+            "Directory":"../../Meshes/Crate.gltf",
+            "Position":[0,8,-1.5],
+            "Rotation":[0,0,0,0],
+            "Scale":[0.15,0.15,0.15],
+            "Colour":[1,1,1],
+            "Brightness": [10],
+            "Transparency":[0.6],
+            "Gloss": [1]
+        }
+    ],
+    "Objects":  [
+        {
+            "Directory":"../../Meshes/Shotgun.gltf",
+            "Position":[0,0,0],
+            "Rotation":[0,0,0,0],
+            "Scale":[20.0,20.0,20.0],
+            "Density":20
+        }
+    ]
+}
